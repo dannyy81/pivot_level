@@ -2,5 +2,5 @@
 expand or collapse only one level at a time
 
 # examples
-**drag and drop**
-![](filterPaneCollapsed01.gif)
+**expand one level**
+![](expandOneLevel.gif)
